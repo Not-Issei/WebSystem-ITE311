@@ -45,5 +45,5 @@ class Autoload extends AutoloadConfig
      * Load helpers automatically.
      * Example: ['form', 'url']
      */
-    public $helpers = ['8080'];
+    public $helpers = ['8000'];
 }
